@@ -1,4 +1,4 @@
-# Creating-time-series-data-using-TimeGAN
+# Generating-time-series-data-using-TimeGAN
 This project demonstrates how to **generate synthetic multivariate time series data using TimeGAN** and how to **evaluate its quality** through downstream forecasting using a Random Forest model.
 
 ---
