@@ -26,11 +26,6 @@ This project is divided into two major parts:
 ## ✅ Requirements
 
 Install Python (3.8–3.11 recommended), then install required packages:
-
-```bash
-pip install -r requirements.txt
-```
-
 Here are the essential packages:
 
 ```bash
